@@ -1,0 +1,7 @@
+*
+!*/
+!/.gitignore
+/VST/*/
+!/VST/progs64/
+!/VST/progs64/verif_simple_allocator.v
+!/VST/progs64/simple_allocator.c
