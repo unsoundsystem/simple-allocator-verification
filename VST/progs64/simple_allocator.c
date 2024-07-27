@@ -39,5 +39,4 @@ int main(void) {
 	char *c2 = slab_alloc(&four_bytes_allocator);
 	char *c3 = slab_alloc(&four_bytes_allocator);
 	*c1 = 1;
-	//*_i ci \mapsto - を示す
 }
